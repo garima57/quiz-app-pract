@@ -1,0 +1,5 @@
+What is the capital of France?,Berlin,Madrid,Paris,Rome,C
+Which planet is known as the Red Planet?,Earth,Mars,Jupiter,Saturn,B
+What is 5 + 3?,5,7,8,9,C
+Who wrote 'Hamlet'?,Charles Dickens,William Shakespeare,Jane Austen,Mark Twain,B
+Which language is used to create web pages?,Python,Java,CSS,HTML,D

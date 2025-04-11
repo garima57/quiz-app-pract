@@ -1,0 +1,5 @@
+What is the output of print(2**3)?,4,6,8,9,C
+What keyword is used to define a function in Python?,def,func,define,method,A
+Which data type is immutable?,list,set,dict,tuple,D
+Which module is used for regular expressions?,re,regex,rexp,exp,A
+What does len([1, 2, 3]) return?,2,3,4,Error,B
