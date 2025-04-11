@@ -81,7 +81,11 @@ D. Converts to int
 2. Bob (General Knowledge) - 8/10
 3. Garima (Python) - 7/10
 ```
+📊 Score Storage
+All scores are saved to scores.txt after each quiz attempt.
+To see how the format works without affecting actual data, refer to:
 
+👉 scores_preview.txt
 ---
 
 ## 📁 File Structure
