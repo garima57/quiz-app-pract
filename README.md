@@ -125,5 +125,5 @@ Ideas, suggestions, and contributions are welcome! You can fork this repo, impro
 
 ---
 
-## 👩‍💻 Made with ❤️ by [garima57](https://github.com/garima57)
+## 👩‍💻 Made with ❤️ by [garima](https://github.com/garima57)
 
