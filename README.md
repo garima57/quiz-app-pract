@@ -65,9 +65,9 @@ python quiz.py --name "Alice" --category "Python"
 ✨       🎓 Welcome to the Quiz Application!       ✨
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
-![image](https://github.com/user-attachments/assets/c6622f50-2a97-4d92-a7fe-c420faf066d8)
 ```
+![image](https://github.com/user-attachments/assets/c6622f50-2a97-4d92-a7fe-c420faf066d8)
+
 
 ### Sample Question
 ```
