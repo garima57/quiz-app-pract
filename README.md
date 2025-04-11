@@ -52,22 +52,7 @@ python quiz.py --name "Alice" --category "Python"
 ![image](https://github.com/user-attachments/assets/c2147389-fd1b-47c6-806b-12856d779f9c)
 
 
-### Sample Question
-```
-Q1: What does the 'len()' function do in Python?
-A. Calculates length of string or list
-B. Logs error
-C. Creates list
-D. Converts to int
-```
 
-### Leaderboard
-```
-🏆 Leaderboard:
-1. Alice (Python) - 9/10
-2. Bob (General Knowledge) - 8/10
-3. Garima (Python) - 7/10
-```
 ### 📊 Score Storage
 ```
 All scores are saved to scores.txt after each quiz attempt.
@@ -84,7 +69,7 @@ To use it, rename to `scores.txt` locally. It is `.gitignored` to avoid uploadin
 ```bash
 quiz-app-pract/
 ├── quiz.py                    # Main Python file
-├── scores.txt                 # Persistent leaderboard data
+├── scores.txt                 # Persistent leaderboard data ----- #ignored
 ├── python_questions.txt       # Category: Python
 ├── general_knowledge_questions.txt  # Category: GK
 ├── .gitignore
