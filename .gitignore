@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code / JetBrains IDE settings (optional)
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Log or temp files
+*.log
+*.tmp
+
+# Score file (optional: to avoid uploading user scores)
+scores.txt
