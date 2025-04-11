@@ -113,9 +113,7 @@ quiz-app-pract/
 └── requirements.txt           # List of dependencies (optional)
 ```
 
-## ✅ Project Highlights & Evaluation Criteria Alignment
-
-This project aligns well with the evaluation guidelines and expectations:
+## ✅ Project Highlights
 
 ### 1. **Functionality**
 - 🎯 Supports multiple categories (Python, General Knowledge)
@@ -126,27 +124,25 @@ This project aligns well with the evaluation guidelines and expectations:
 ### 2. **Creativity & Additional Features**
 - 🎨 Visually styled console using emojis and `colorama`
 - 📂 Category system and question loading from external files
-- 🌈 Random themes for a refreshing experience (optionally extendable)
-- 🧠 Intelligent score saving and user-specific feedback
 
 ### 3. **Code Quality & File Handling**
 - 🧼 Clean, modular code with comments and readable variable names
 - 📁 Uses `scores.txt` for persistent storage (excluded via `.gitignore`)
-- ❌ Proper error handling for missing files and bad inputs
+- ❌Proper error handling for missing files and bad inputs
 - 🧩 Uses `argparse`, `os`, file I/O, and other Python features
 
 ### 4. **Testing & Stability**
 - ✅ Tested with different categories, inputs, and edge cases
-- ❌ Invalid inputs and timeouts handled gracefully
+- ❌ Invalid inputs and timeouts handled 
 - 🔁 Includes a replay option to encourage re-engagement
 
 
 ---
 
 ## 📜 License
+```
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
----
-
+```
 ## 🌱 Development
 
 If you want to experiment or add new features:
