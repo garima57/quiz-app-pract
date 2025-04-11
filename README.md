@@ -60,13 +60,15 @@ python quiz.py --name "Alice" --category "Python"
 ### Main Banner
 
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨       🎓 Welcome to the Quiz Application!       ✨
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-```
 ![image](https://github.com/user-attachments/assets/c6622f50-2a97-4d92-a7fe-c420faf066d8)
+
+![Screenshot 2025-04-11 233805](https://github.com/user-attachments/assets/73374ce0-f811-44fe-910c-6cbe398c339c)
+
+![Screenshot 2025-04-11 233820](https://github.com/user-attachments/assets/970dab79-bc46-46e1-b475-22f27f4bef5c)
+
+![Screenshot 2025-04-11 233842](https://github.com/user-attachments/assets/fff6de59-d62b-4e46-b14f-ec996b7cfdec)
+
+![image](https://github.com/user-attachments/assets/c2147389-fd1b-47c6-806b-12856d779f9c)
 
 
 ### Sample Question
