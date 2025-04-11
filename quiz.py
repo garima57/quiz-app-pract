@@ -27,7 +27,7 @@ except ImportError:
     def timed_input(prompt, timeout=10):
         return input(prompt)
 
-# 🧠 Function to load questions
+# Function to load questions
 
 def load_questions(category):
     filename = f"{category.lower().replace(' ', '_')}_questions.txt"
@@ -60,7 +60,7 @@ def give_feedback(score, total):
     else:
         print(f"{CYAN}📚 Keep learning! You’ll get it next time!{RESET}")
 
-# 🎨 Styled banner
+# Styled banner
 
 def print_banner(text):
     border = "━" * 50
@@ -68,7 +68,7 @@ def print_banner(text):
     print(f"✨ {text.center(46)} ✨")
     print(f"{border}{RESET}\n")
 
-# 🏆 Leaderboard display
+#Leaderboard display
 
 def show_leaderboard(current_user):
     print("\n🏆 Leaderboard:")
@@ -99,7 +99,7 @@ def show_leaderboard(current_user):
     except FileNotFoundError:
         print("Leaderboard not available (scores.txt missing).")
 
-# 🧠 Main quiz logic
+# Main quiz logic
 
 def main():
     parser = argparse.ArgumentParser(description="Console-based Quiz Application")
