@@ -62,6 +62,8 @@ python quiz.py --name "Alice" --category "Python"
 
 ![image](https://github.com/user-attachments/assets/c6622f50-2a97-4d92-a7fe-c420faf066d8)
 
+![image](https://github.com/user-attachments/assets/5ee8f55b-3c6e-413a-b9ab-880b3159f09f)
+
 ![Screenshot 2025-04-11 233805](https://github.com/user-attachments/assets/73374ce0-f811-44fe-910c-6cbe398c339c)
 
 ![Screenshot 2025-04-11 233820](https://github.com/user-attachments/assets/970dab79-bc46-46e1-b475-22f27f4bef5c)
