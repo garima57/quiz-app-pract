@@ -1,7 +1,5 @@
-# quiz-app-pract
- "Console-based quiz app with categories, leaderboard, timer &amp; color themes 🌈✨"
 # 🎓 Console Quiz Application
-
+                "Console-based quiz app with categories, leaderboard, timer &amp; color themes 🌈✨"
 An interactive command-line quiz game built with Python! Test your knowledge in different categories like Python and General Knowledge.
 
 ---
