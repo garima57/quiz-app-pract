@@ -12,7 +12,7 @@ An interactive command-line quiz game built with Python! Test your knowledge in 
 - ✅ Feedback on correct/incorrect answers
 - 📂 File handling to persist scores and leaderboard 
 - 🏆 Leaderboard storing top scores per category
-- Support for multiple categories
+ 🧠 Multiple categories: Python & General Knowledge
 - 🔧 Command-line support using `argparse` (CLI)
 - Highlights player name on leaderboard if in top 3
 
@@ -26,18 +26,6 @@ An interactive command-line quiz game built with Python! Test your knowledge in 
    cd quiz-app
 
 
-
-## 🚀 Features
-
-- 🧠 Multiple categories: Python & General Knowledge
-
-
-
-
-
-
-
----
 
 ## 🛠️ Installation
 
