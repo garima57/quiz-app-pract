@@ -4,7 +4,7 @@ An interactive command-line quiz game built with Python! Test your knowledge in 
 
 ---
 
-## 🧠 Features
+## surfer: Features
 
 - Multiple choice questions (MCQs)
 - Timed answers with `inputimeout`
