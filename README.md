@@ -18,16 +18,7 @@ An interactive command-line quiz game built with Python! Test your knowledge in 
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/garima57/quiz-app-pract.git
-   cd quiz-app
-
-
-
-## 🛠️ Installation
+## 🚀 How to Run [🛠️ Installation]
 
 1. **Clone the repository:**
 
