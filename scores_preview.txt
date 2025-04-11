@@ -1,0 +1,5 @@
+garima,Python,4/5
+Alex,General Knowledge,3/5
+Priya,Python,5/5
+Rahul,General Knowledge,2/5
+Anya,Python,3/5
