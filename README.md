@@ -17,27 +17,6 @@ An interactive command-line quiz game built with Python! Test your knowledge in 
 - Highlights player name on leaderboard if in top 3
 
 ---
-
-## 🚀 How to Run [🛠️ Installation]
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/garima57/quiz-app-pract.git
-cd quiz-app-pract
-```
-
-3. **Install dependencies:**
-
-```bash
-pip install -r requirements.txt
-```
-
-If `requirements.txt` is not available, manually install:
-```bash
-pip install inputimeout colorama
-```
-
 ---
 
 ## 💡 Usage
