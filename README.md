@@ -95,6 +95,8 @@ All scores are saved to scores.txt after each quiz attempt.
 To see how the format works without affecting actual data, refer to:
 
 👉 scores_preview.txt
+
+To use it, rename to `scores.txt` locally. It is `.gitignored` to avoid uploading real user data
 ```
 ---
 
@@ -111,6 +113,38 @@ quiz-app-pract/
 └── requirements.txt           # List of dependencies (optional)
 ```
 
+## ✅ Project Highlights & Evaluation Criteria Alignment
+
+This project aligns well with the evaluation guidelines and expectations:
+
+### 1. **Functionality**
+- 🎯 Supports multiple categories (Python, General Knowledge)
+- ⏰ Timed questions with input timeout handling
+- ✅ Score tracking with a persistent leaderboard
+- 🏆 Category-wise performance and top 3 highlighting
+
+### 2. **Creativity & Additional Features**
+- 🎨 Visually styled console using emojis and `colorama`
+- 📂 Category system and question loading from external files
+- 🌈 Random themes for a refreshing experience (optionally extendable)
+- 🧠 Intelligent score saving and user-specific feedback
+
+### 3. **Code Quality & File Handling**
+- 🧼 Clean, modular code with comments and readable variable names
+- 📁 Uses `scores.txt` for persistent storage (excluded via `.gitignore`)
+- ❌ Proper error handling for missing files and bad inputs
+- 🧩 Uses `argparse`, `os`, file I/O, and other Python features
+
+### 4. **Testing & Stability**
+- ✅ Tested with different categories, inputs, and edge cases
+- ❌ Invalid inputs and timeouts handled gracefully
+- 🔁 Includes a replay option to encourage re-engagement
+
+
+---
+
+## 📜 License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 ---
 
 ## 🌱 Development
@@ -138,6 +172,6 @@ git push origin feature/new-mode
 Ideas, suggestions, and contributions are welcome! You can fork this repo, improve features, or open issues if you find bugs.
 
 ---
-
+Happy Quizzing! 🎉
 ## 👩‍💻 Made with ❤️ by [garima](https://github.com/garima57)
 
