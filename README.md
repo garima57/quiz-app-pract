@@ -9,9 +9,9 @@ An interactive command-line quiz game built with Python! Test your knowledge in 
 - Multiple choice questions (MCQs)
 - ⏱ Timed input with countdown `inputimeout`
 - 🌈 Colorful console design using `colorama`
-- - ✅ Feedback on correct/incorrect answers
+- ✅ Feedback on correct/incorrect answers
 - 📂 File handling to persist scores and leaderboard 
-- - 🏆 Leaderboard storing top scores per category
+- 🏆 Leaderboard storing top scores per category
 - Support for multiple categories
 - 🔧 Command-line support using `argparse` (CLI)
 - Highlights player name on leaderboard if in top 3
